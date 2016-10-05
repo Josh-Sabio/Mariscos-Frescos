@@ -28,9 +28,9 @@ header {
 	padding: auto;
 }
 #Res {
-	height: 500px;
-	width: 500px;
-	/*position: absolute;*/
+	 display: block;
+   	 margin-left: auto;
+   	 margin-right: auto;
 }
 h2 {
 	size: 20%;
