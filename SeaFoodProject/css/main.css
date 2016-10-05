@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+.clear {
+	clear: both;
+}
+h1 {
+	text-decoration: none;
+	text-align: center;
+	font-size: 500%;
+	background-image: url("http://www.bwt-group.com/SiteCollectionImages/Geschaeftsbereiche-Produkte/Hotellerie-Gastronomie-Vending/Internationale_Hotellerie/banner_meerwasser_990x348_bwt.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	margin: 0 0;
+}
+h1 p {
+	text-align: center;
+	padding:auto;
+}
+header {
+	/*background-image: url("http://www.bwt-group.com/SiteCollectionImages/Geschaeftsbereiche-Produkte/Hotellerie-Gastronomie-Vending/Internationale_Hotellerie/banner_meerwasser_990x348_bwt.jpg");*/
+	width: 100%;
+	background-position: center;
+	display: block;
+	background-repeat: no-repeat;
+	padding: auto;
+}
+#Res {
+	height: 500px;
+	width: 500px;
+	/*position: absolute;*/
+}
+h2 {
+	size: 20%;
+	background-color: #38040E;
+
+}
+body {
+	background-color: grey;
+}
+ul {
+	text-align: center;
+	color: white;
+}
+li {
+	display: inline-block;
+	margin-right: 26px;
+}
+a:visited {
+	color: White;
+}
+a:hover {
+	color: 
+}
+#body {
+	background-color: #E9C46A;
+			}
+#Me {
+	font-family: 'Yatra One', cursive;
+	background-color: #38040E;
+    padding: 100px;
+    width: 60%;
+    margin: 100px auto;
+    color: white;
+}
+#MenuB {
+	background-color: #E9C46A;
+}
+h2 {
+	text-align: center;
+	font-size: 45px;
+	color: #E9C46A;
+}
+	
+.sand {
+	width: 50%;
+	float: bottom;
+	padding: 40px; 
+	display: block;
+}
+.home-photos ul {
+	padding:0;
+
+}
+.home-photos ul li {
+	list-style-type: none;
+	width: 32%;
+	float: left;
+	padding: 5px;
+}
+.home-photos ul li img {
+	width: 200px;
+	height: 200px;
+	margin-bottom: 0px;
+	padding: 0px;
+
+}
+.home-photos p {
+	padding: 10px;
+	padding-left: 100px;
+}
+.Logo {
+	width: 300px;
+	height: 150px;
+	margin: auto;
+	display: block;
+	margin: 0 0;
+	padding:auto;
+}
+.title {
+
+}
+.entree {
+	font-size: 50px;
+	text-align: center;
+
+}
+.social { 
+	color: #E9C46A;
+	width: 100px;
+	height: 100px;
+	align-items: center;
+}
+footer ul {
+	float: left;
+	width: 50%;
+}
+
+footer .footer-info {
+	float: left;
+	width: 50%;
+	padding: 0;
+}
