@@ -1,6 +1,6 @@
 * {
-  	box-sizing: border-box;
-	background-color: #E9C46A;
+  box-sizing: border-box;
+  background-color: #E9C46A;
 }
 .clear {
 	clear: both;
@@ -19,6 +19,11 @@ h1 p {
 	text-align: center;
 	padding:auto;
 }
+#halp {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 header {
 	/*background-image: url("http://www.bwt-group.com/SiteCollectionImages/Geschaeftsbereiche-Produkte/Hotellerie-Gastronomie-Vending/Internationale_Hotellerie/banner_meerwasser_990x348_bwt.jpg");*/
 	width: 100%;
@@ -28,14 +33,37 @@ header {
 	padding: auto;
 }
 #Res {
-	 display: block;
-   	 margin-left: auto;
-   	 margin-right: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 h2 {
 	size: 20%;
 	background-color: #38040E;
-
+}
+#list {
+	margin:auto;
+}
+#items {
+	margin: auto;
+	display: block;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-self: center;
+}
+#items li img {
+	width: 250px;
+	height: 200px;
+	padding:auto;
+	margin: auto;
+	display: block;
+	float: left;
+}
+#items li p {
+	width: 250px;
+	height: 200px;
+	margin-bottom: 50%;
 }
 body {
 	background-color: grey;
@@ -72,34 +100,6 @@ h2 {
 	text-align: center;
 	font-size: 45px;
 	color: #E9C46A;
-}
-	
-.sand {
-	width: 50%;
-	float: bottom;
-	padding: 40px; 
-	display: block;
-}
-.home-photos ul {
-	padding:0;
-
-}
-.home-photos ul li {
-	list-style-type: none;
-	width: 32%;
-	float: left;
-	padding: 5px;
-}
-.home-photos ul li img {
-	width: 200px;
-	height: 200px;
-	margin-bottom: 0px;
-	padding: 0px;
-
-}
-.home-photos p {
-	padding: 10px;
-	padding-left: 100px;
 }
 .Logo {
 	width: 300px;
