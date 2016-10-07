@@ -32,6 +32,11 @@ header {
 	background-repeat: no-repeat;
 	padding: auto;
 }
+#home-pic {
+	display: block;
+	margin: auto;
+	border: 5px solid black;
+}
 #Res {
 	display: block;
     margin-left: auto;
